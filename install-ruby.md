@@ -48,6 +48,7 @@ rbenv 1.1.2
 - Ruby
 - Simple Ruby ERB
 - VSCode Ruby
+- rufo *prettier for ruby*
 
 
 
